@@ -1,4 +1,4 @@
-## yo 👋
+## hi 👋
 
 i'm a SWE in semiconductor industry <3. i also do ML.
 
