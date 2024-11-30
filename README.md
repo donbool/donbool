@@ -1,6 +1,6 @@
 ## hello 👋
 
-## i'm a SWE passionate about semiconductor industry. i also do ML.
+i'm a SWE in semiconductor industry <3. i also do ML.
 
 <!--
 **donbool/donbool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
