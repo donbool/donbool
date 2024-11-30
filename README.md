@@ -1,6 +1,6 @@
-## hi 👋
+## hello 👋
 
-i'm a SWE in semiconductor industry <3. i also do ML.
+i'm a current MS student and SWE intern. i hope to stay within the semiconductor industry. my MS focus is in machine learning.
 
 <!--
 **donbool/donbool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
