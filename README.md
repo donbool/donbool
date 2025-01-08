@@ -1,4 +1,4 @@
-## hello 👋
+## donbool
 
 i'm a current grad student and SWE intern. my MS focus is in machine learning.
 
