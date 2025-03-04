@@ -1,6 +1,6 @@
 ## donbool
 
-i'm a current grad student and SWE intern. my MS focus is in machine learning.
+current grad student and SWE intern. MS focus in machine learning. passionate about data. aspiring data engineer / analyst
 
 <!--
 **donbool/donbool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
